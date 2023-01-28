@@ -1,3 +1,5 @@
-# Programming-Practice-HTML-and-CSS-Basic
+# Programming-Practice-HTML-and-CSS-Basics II
 
-This repository is for the Assignment HTML and CSS Basic of CIS 3990.
+See biography.html, biography,png, card.html, style.css, and card.png for HTML assignment 2.
+
+NOTE: style.css contains the css code for card.html.
